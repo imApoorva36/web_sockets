@@ -60,7 +60,7 @@ async def receive_messages(websocket):
                 tt = ts - t
                 logging.info(f'\n{tt} : Block {blockno} received\n')
                 for i in dic :
-                    logging.info(f"{i} : {dic[i]}")
+                    logging.info(f"{dic[i]}")
                 dic.clear()
         except socket.error:
             connected = False  

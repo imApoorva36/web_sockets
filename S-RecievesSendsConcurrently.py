@@ -12,12 +12,13 @@ fake = Faker()
 
 async def send_messages(websocket):
     while True:
-        await websocket.send(f"{fake.name()}")
         await asyncio.sleep(1)
+        await websocket.send(f"{fake.name()}")
+        #await asyncio.sleep(1)
 
 
 async def receive_messages(websocket):
-    numbering = 0
+    numbering = 1
     while True:
         message = await websocket.recv()
         print(f"{numbering}. Received message: {message}")
