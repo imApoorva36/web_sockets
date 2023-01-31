@@ -1,15 +1,18 @@
 import asyncio
 import websockets
 import logging
+from faker import Faker
 
-logging.basicConfig(
+fake = Faker()
+
+'''logging.basicConfig(
     format="%(message)s",
     level=logging.DEBUG,
-)
+)'''
 
 async def send_messages(websocket):
     while True:
-        await websocket.send("Hello client!")
+        await websocket.send(f"{fake.name()}")
         await asyncio.sleep(1)
 
 
