@@ -1,0 +1,48 @@
+
+4.006089687347412 : Block 1 received
+
+2023-01-31 22:12:57.716791 : Vickie Schultz
+2023-01-31 22:12:58.718525 : Edward Washington
+2023-01-31 22:12:59.720277 : Tyler Farrell
+2023-01-31 22:13:00.721155 : Amy Fox
+2023-01-31 22:13:01.722878 : Greg Chambers
+
+4.00656533241272 : Block 2 received
+
+2023-01-31 22:13:02.724426 : Thomas Camacho
+2023-01-31 22:13:03.725927 : Angelica Grant
+2023-01-31 22:13:04.727411 : Donald Henderson
+2023-01-31 22:13:05.728921 : Alexander Mcgrath
+2023-01-31 22:13:06.730990 : Troy Giles
+
+4.0061516761779785 : Block 3 received
+
+2023-01-31 22:13:07.733988 : Lisa Orozco
+2023-01-31 22:13:08.735840 : Megan Smith
+2023-01-31 22:13:09.737976 : Kathleen Cooke
+2023-01-31 22:13:10.738981 : Calvin Taylor
+2023-01-31 22:13:11.740140 : Margaret Taylor
+
+4.0083746910095215 : Block 4 received
+
+2023-01-31 22:13:12.742490 : Richard Knapp
+2023-01-31 22:13:13.744550 : Jaime Gilmore
+2023-01-31 22:13:14.746187 : Mariah Harper
+2023-01-31 22:13:15.748225 : Jesus Grant
+2023-01-31 22:13:16.750863 : Robin Gardner
+
+4.006603240966797 : Block 5 received
+
+2023-01-31 22:13:17.752331 : Mrs. Belinda Rogers
+2023-01-31 22:13:18.753906 : Brittany Elliott
+2023-01-31 22:13:19.756722 : Thomas Moss
+2023-01-31 22:13:20.757330 : Lisa Perez
+2023-01-31 22:13:21.758934 : Michael Ramirez
+
+4.006817817687988 : Block 6 received
+
+2023-01-31 22:13:22.761193 : Kara Bell
+2023-01-31 22:13:23.762823 : Nathan Hernandez
+2023-01-31 22:13:24.764224 : Brian Hart
+2023-01-31 22:13:25.766106 : Teresa Schultz
+2023-01-31 22:13:26.768011 : Thomas Hernandez

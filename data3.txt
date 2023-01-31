@@ -1,0 +1,56 @@
+
+4.004931211471558 : Block 1 received
+
+2023-01-31 22:12:53.834515 : Micheal Mckenzie DDS
+2023-01-31 22:12:54.836146 : Melissa Mack
+2023-01-31 22:12:55.837557 : Robert Sutton
+2023-01-31 22:12:56.838445 : Jeanette Hughes
+2023-01-31 22:12:57.839444 : Robert Hickman
+
+4.005158424377441 : Block 2 received
+
+2023-01-31 22:12:58.840807 : Cynthia Walker
+2023-01-31 22:12:59.842323 : Jamie Woods
+2023-01-31 22:13:00.842634 : Nancy Adams
+2023-01-31 22:13:01.843422 : Angela Martin
+2023-01-31 22:13:02.845967 : Deborah Lopez
+
+4.006476640701294 : Block 3 received
+
+2023-01-31 22:13:03.847761 : Michelle Sullivan
+2023-01-31 22:13:04.849237 : Veronica Combs
+2023-01-31 22:13:05.850721 : Melissa Benson
+2023-01-31 22:13:06.851889 : David Lee
+2023-01-31 22:13:07.854237 : Sandra Martin
+
+4.006155014038086 : Block 4 received
+
+2023-01-31 22:13:08.856545 : Tricia Hart
+2023-01-31 22:13:09.858271 : James Sharp
+2023-01-31 22:13:10.860001 : Brandon Zuniga
+2023-01-31 22:13:11.860797 : Robert Cruz
+2023-01-31 22:13:12.862699 : Aaron Buchanan
+
+4.009605646133423 : Block 5 received
+
+2023-01-31 22:13:13.864256 : Gloria Sanchez
+2023-01-31 22:13:14.865731 : Brandon Rodriguez
+2023-01-31 22:13:15.868258 : Sarah Rush
+2023-01-31 22:13:16.870906 : Jeffery Simmons
+2023-01-31 22:13:17.873862 : James Price
+
+4.007139444351196 : Block 6 received
+
+2023-01-31 22:13:18.874904 : Thomas Duncan II
+2023-01-31 22:13:19.876271 : Jeremy Snow
+2023-01-31 22:13:20.878011 : Matthew Mullen
+2023-01-31 22:13:21.879523 : David Carrillo
+2023-01-31 22:13:22.882043 : Peter Jimenez
+
+4.007200717926025 : Block 7 received
+
+2023-01-31 22:13:23.883836 : Michael Hall
+2023-01-31 22:13:24.884490 : Stephanie Welch
+2023-01-31 22:13:25.886882 : Larry Hines Jr.
+2023-01-31 22:13:26.888543 : Cheryl Mcgee
+2023-01-31 22:13:27.891035 : Matthew Clark

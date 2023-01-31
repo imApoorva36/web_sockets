@@ -2,13 +2,7 @@ import asyncio
 import websockets
 import logging
 from faker import Faker
-
 fake = Faker()
-
-'''logging.basicConfig(
-    format="%(message)s",
-    level=logging.DEBUG,
-)'''
 
 async def send_messages(websocket):
     while True:
@@ -21,7 +15,7 @@ async def receive_messages(websocket):
     numbering = 1
     while True:
         message = await websocket.recv()
-        print(f"{numbering}. Received message: {message}")
+        print(f"{numbering}. {message}")
         numbering += 1
 
 

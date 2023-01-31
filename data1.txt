@@ -1,0 +1,47 @@
+
+4.006179094314575 : Block 1 received
+
+2023-01-31 22:18:44.643791 : Courtney Bowen
+2023-01-31 22:18:45.644939 : Mark Ewing
+2023-01-31 22:18:46.646422 : Sarah Hayes
+2023-01-31 22:18:47.648365 : Kristina Thomas
+2023-01-31 22:18:48.649967 : Thomas Diaz
+
+4.0036704540252686 : Block 2 received
+
+2023-01-31 22:18:49.651695 : Jennifer Ramirez
+2023-01-31 22:18:50.652337 : Alexandria Hughes
+2023-01-31 22:18:51.653297 : James Smith
+2023-01-31 22:18:52.654583 : Lisa Mejia
+2023-01-31 22:18:53.655366 : Kimberly Guerrero
+42303467 : Block 3 received
+
+2023-01-31 22:18:44.730254 : Dustin Clarke
+2023-01-31 22:18:45.731242 : April Goodman
+2023-01-31 22:18:46.732121 : Lisa Oneill
+2023-01-31 22:18:47.733426 : Beth Valdez
+2023-01-31 22:18:48.734801 : Mr. Joshua Johnson
+
+4.003145217895508 : Block 4 received
+
+2023-01-31 22:18:49.735955 : William Luna
+2023-01-31 22:18:50.736934 : Marie Rivera
+2023-01-31 22:18:51.737325 : Alice Jenkins
+2023-01-31 22:18:52.738339 : Alicia Miller
+2023-01-31 22:18:53.739101 : Julia Cooke
+
+4.006263494491577 : Block 5 received
+
+2023-01-31 22:18:44.450993 : Donald Moore
+2023-01-31 22:18:45.452318 : Walter Robinson
+2023-01-31 22:18:46.453620 : David Mcclure
+2023-01-31 22:18:47.455168 : Stacey Martinez
+2023-01-31 22:18:48.457257 : Edward Lee
+
+3.998126983642578 : Block 6 received
+
+2023-01-31 22:18:49.467618 : Michael Waller
+2023-01-31 22:18:50.460358 : Lindsey Johnson
+2023-01-31 22:18:51.462155 : Michael Miller
+2023-01-31 22:18:52.463943 : Casey Moses
+2023-01-31 22:18:53.465741 : Manuel Hall
