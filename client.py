@@ -1,5 +1,4 @@
 import asyncio
-from asyncio import log
 import websockets
 import logging
 import time
@@ -62,19 +61,26 @@ async def receive_messages(websocket):
                 for i in dic :
                     logging.info(f"{dic[i]}")
                 dic.clear()
-        except socket.error:
+        except :
+            
             connected = False  
+            websocket = websockets.connect("ws://localhost:8000")
             print( "connection lost... reconnecting" )  
             while not connected:  
                 # attempt to reconnect, otherwise sleep for 2 seconds  
                 try:  
-                    websockets.connect( "ws://localhost:8000" ) 
-                    connected = True  
-                    print( "re-connection successful" )  
+                    async with websockets.connect("ws://localhost:8000") as websocket:
+                        # Create tasks to send and receive messages concurrently
+                        send_task = asyncio.create_task(send_messages(websocket))
+                        receive_task = asyncio.create_task(receive_messages(websocket))
+                        await asyncio.gather(send_task, receive_task)
+                        print( "re-connection successful" ) 
+                        connected = True
+ 
                 except:  
                     sleep( 2 ) 
                     print("sleeping")
-        #clientSocket.close();  
+        #clientSocket.close();  '''
 
     '''except websockets.exceptions.ConnectionClosedError :
         #connected = False
