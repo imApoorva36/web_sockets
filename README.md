@@ -4,7 +4,7 @@
 'Using web sockets to make communication between client and server'
 
 
-###***A detailed report of the task*** :
+### ***A detailed report of the task*** :
  1. In this project we have created a server and number of clients in which two-way interactive communication between         client and the server is enabled
  2. The connection between server and client is enabled by using ***websockets*** and ***async*** libraries.
  3. Once the server and client are connected the server using ***Fraker*** library starts generating random datas like         name, address etc. and it will send all the data to the client.
