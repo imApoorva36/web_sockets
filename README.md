@@ -57,7 +57,33 @@ The ***datetime*** module was just used to get the current date and time at whic
    The ***faker*** module was used for generating various random data such as name, country, city etc. which was sent from server to client and which was also logged in blocks in the respective client's data file.
     
  
- # ***Screenshots of outputs of program execution :***
+ # ***Outputs and Screenshots of outputs of program execution :***
+ 
+ <br>
+ 
+1. This is the output of a simple connection of the server connected to just 1 client
+ 
+    Output of Server
+ ![p1c1](https://user-images.githubusercontent.com/90238207/216105354-7f5d1f7d-9b82-47d6-b2b2-bc7bd71cc860.png)
+ 
+    Output of Client
+ ![p2c1](https://user-images.githubusercontent.com/90238207/216105699-988a2036-c571-4351-9cac-e980c8a69f28.png)
+
+2. Showing output that the server is able to manage multiple connections from the clients
+ 
+ ![p3](https://user-images.githubusercontent.com/90238207/216108410-70215148-ddfb-44ba-b6ef-0ea8944ade3f.png)
+
+3. Showing that server can successfully connect to all clients at the same time on restarting
+ 
+ ![p4](https://user-images.githubusercontent.com/90238207/216108735-67e2e0d3-07b7-4681-9cbf-5a13963ecba5.png)
+
+ 4. Showing the output of any one client that it could successfully reestablish connection with the server when it was restarted
+ 
+ ![p5](https://user-images.githubusercontent.com/90238207/216109028-7a39dbed-a5df-4dd6-b3c8-d8da467d9afb.png)
+
+ 5. Showing any one data file that the data could be successfully logged in the data file even after connection between server and client got re-established
+ 
+ ![p6](https://user-images.githubusercontent.com/90238207/216109451-6b526764-88fe-4817-9b36-f63732063d61.png)
 
 
 
