@@ -3,18 +3,23 @@
 
 'Using web sockets to make communication between client and server'
 
-
+<br>
 ### ***A detailed report of the task*** :
+</br>
+<br>
  1. In this project we have created a server and number of clients in which two-way interactive communication between         client and the server is enabled
  2. The connection between server and client is enabled by using ***websockets*** and ***async*** libraries.
  3. Once the server and client are connected the server using ***Fraker*** library starts generating random datas like         name, address etc. and it will send all the data to the client.
  4. The client would receive the messeges sended by the server and it will select the type of data it wants and timestamps     only the selected type of messages.
  5. Then the client will receive a block of data (block sizes for different clients are different) and caculate the time       taken to receive that block of data and then it would Log that block into a text file using ***logging*** module of       python.
  6. Then the client would send a response back to the server "client <client_name> received <n> block in <t> time’, where     n has to be the sequence number of the block that the client received and time t taken for the client to receive the       entire message block.
- 7. The server would print any of the message received by the client
+ 7. The server would print any of the message received by the client.
+ 8. The client is having the feature of #### ***re-establishment of the connection with the sever if in case server           restarts for some reason*** (Here we have used error handling)
+ 9.
  
  
  
+ </br>
  Instructions on how to run the files : 
  
  
