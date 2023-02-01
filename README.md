@@ -1,10 +1,11 @@
-Team Embedus(by Apoorva Agrawal and Sanjeev Holla S)
+# Team Embedus(by Apoorva Agrawal and Sanjeev Holla S)
 
 
 'Using web sockets to make communication between client and server'
 
 
- A detailed report of the task :
+ ##***A detailed report of the task*** :
+ 1. In this project we have created a server and number of clients in which two-way interactive communication between         client and the server is enabled
  
  
  
