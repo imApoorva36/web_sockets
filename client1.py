@@ -23,7 +23,10 @@ async def client():
 
 
 async def send_messages(websocket):
+
     await websocket.send("Connected with client-1")
+
+
     
 
 async def receive_messages(websocket):
