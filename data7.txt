@@ -1,0 +1,60 @@
+
+Block 1 received in time 2.0407795906066895 sec
+
+2023-02-01 15:01:25.224080 : ('CRC', 'Costa Rican colón')
+2023-02-01 15:01:26.246461 : ('ZWD', 'Zimbabwean dollar')
+2023-02-01 15:01:27.264860 : ('XPF', 'CFP franc')
+
+Block 2 received in time 2.016101121902466 sec
+
+2023-02-01 15:01:28.269694 : ('NPR', 'Nepalese rupee')
+2023-02-01 15:01:29.285114 : ('NOK', 'Norwegian krone')
+2023-02-01 15:01:30.285795 : ('XPF', 'CFP franc')
+
+Block 3 received in time 2.016674757003784 sec
+
+2023-02-01 15:01:31.295962 : ('ETB', 'Ethiopian birr')
+2023-02-01 15:01:32.300274 : ('SHP', 'Saint Helena pound')
+2023-02-01 15:01:33.312637 : ('NGN', 'Nigerian naira')
+
+Block 4 received in time 2.025874376296997 sec
+
+2023-02-01 15:01:34.330748 : ('XPF', 'CFP franc')
+2023-02-01 15:01:35.353536 : ('SDG', 'Sudanese pound')
+2023-02-01 15:01:36.356622 : ('SVC', 'Salvadoran colón')
+
+Block 1 received in time 2.0179808139801025 sec
+
+2023-02-01 15:01:41.990469 : ('UYU', 'Uruguayan peso')
+2023-02-01 15:01:42.993426 : ('AMD', 'Armenian dram')
+2023-02-01 15:01:44.008450 : ('PEN', 'Peruvian sol')
+
+Block 2 received in time 2.0104587078094482 sec
+
+2023-02-01 15:01:45.012737 : ('ALL', 'Albanian lek')
+2023-02-01 15:01:46.017513 : ('BMD', 'Bermudian dollar')
+2023-02-01 15:01:47.023195 : ('SOS', 'Somali shilling')
+
+Block 3 received in time 1.9914541244506836 sec
+
+2023-02-01 15:01:48.041587 : ('HKD', 'Hong Kong dollar')
+2023-02-01 15:01:49.050719 : ('NIO', 'Nicaraguan córdoba')
+2023-02-01 15:01:50.033041 : ('SGD', 'Singapore dollar')
+
+Block 4 received in time 2.0167322158813477 sec
+
+2023-02-01 15:01:51.060386 : ('TMT', 'Turkmenistan manat')
+2023-02-01 15:01:52.077872 : ('IRR', 'Iranian rial')
+2023-02-01 15:01:53.077118 : ('NIO', 'Nicaraguan córdoba')
+
+Block 5 received in time 2.016664981842041 sec
+
+2023-02-01 15:01:54.096999 : ('CUP', 'Cuban peso')
+2023-02-01 15:01:55.118902 : ('GEL', 'Georgian lari')
+2023-02-01 15:01:56.113664 : ('BTN', 'Bhutanese ngultrum')
+
+Block 6 received in time 1.9957056045532227 sec
+
+2023-02-01 15:01:57.143076 : ('GBP', 'Pound sterling')
+2023-02-01 15:01:58.138036 : ('ALL', 'Albanian lek')
+2023-02-01 15:01:59.138781 : ('GBP', 'Pound sterling')

@@ -36,7 +36,14 @@ async def receive_messages(websocket):
             if numbering != blocksize :
                 ts = time.time()
                 current_time = datetime.datetime.now()
+                message1 = await websocket.recv()
                 message = await websocket.recv()
+                message3 = await websocket.recv()
+                message4 = await websocket.recv()
+                message5 = await websocket.recv()
+                message6 = await websocket.recv()
+                message7 = await websocket.recv()
+                message8 = await websocket.recv()
                 dic[ts] = f"{current_time} : {message}"
                 numbering += 1
                 
