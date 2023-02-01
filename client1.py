@@ -23,10 +23,7 @@ async def client():
 
 
 async def send_messages(websocket):
-
     await websocket.send("Connected with client-1")
-
-
     
 
 async def receive_messages(websocket):
@@ -34,7 +31,7 @@ async def receive_messages(websocket):
     dic = {}
     numbering = 0
     blockno = 0
-    blocksize = 5 # Setting the block size as 5
+    blocksize = 3 # Setting the block size as 3
     while True:
         # Using Error handling
         try:
@@ -61,6 +58,7 @@ async def receive_messages(websocket):
                 tt = ts - t
                 # Logging the messages to the text file
                 logging.info(f'\n Block {blockno} received in time {tt} sec\n')
+                print(f"Block {blockno} received from server successfully")
                 await websocket.send(f"Client Client-1 received block number {blockno} in time {tt} sec")
                 for i in dic :
                     logging.info(f"{dic[i]}")

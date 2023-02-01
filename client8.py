@@ -55,6 +55,7 @@ async def receive_messages(websocket):
                     break
                 tt = ts - t
                 logging.info(f'\nBlock {blockno} received in time {tt} sec\n')
+                print(f"Block {blockno} received from server successfully")
                 await websocket.send(f"Client Client-8 received block number {blockno} in time {tt} sec")
                 for i in dic :
                     logging.info(f"{dic[i]}")
