@@ -1,56 +1,72 @@
 
-4.004931211471558 : Block 1 received
+Block 1 received in time 2.0056140422821045 sec
 
-2023-01-31 22:12:53.834515 : Micheal Mckenzie DDS
-2023-01-31 22:12:54.836146 : Melissa Mack
-2023-01-31 22:12:55.837557 : Robert Sutton
-2023-01-31 22:12:56.838445 : Jeanette Hughes
-2023-01-31 22:12:57.839444 : Robert Hickman
+2023-02-01 08:32:37.810808 : Lisa Taylor
+2023-02-01 08:32:38.813486 : Steven Campbell
+2023-02-01 08:32:39.816421 : Dennis Garcia
 
-4.005158424377441 : Block 2 received
+Block 2 received in time 2.0040602684020996 sec
 
-2023-01-31 22:12:58.840807 : Cynthia Walker
-2023-01-31 22:12:59.842323 : Jamie Woods
-2023-01-31 22:13:00.842634 : Nancy Adams
-2023-01-31 22:13:01.843422 : Angela Martin
-2023-01-31 22:13:02.845967 : Deborah Lopez
+2023-02-01 08:32:40.820096 : Lisa Ross
+2023-02-01 08:32:41.822221 : Cole Fisher PhD
+2023-02-01 08:32:42.824155 : Matthew Brady
 
-4.006476640701294 : Block 3 received
+Block 3 received in time 2.0045692920684814 sec
 
-2023-01-31 22:13:03.847761 : Michelle Sullivan
-2023-01-31 22:13:04.849237 : Veronica Combs
-2023-01-31 22:13:05.850721 : Melissa Benson
-2023-01-31 22:13:06.851889 : David Lee
-2023-01-31 22:13:07.854237 : Sandra Martin
+2023-02-01 08:32:43.827135 : Jared Romero
+2023-02-01 08:32:44.828623 : Karen Gardner
+2023-02-01 08:32:45.831707 : Rebekah Guzman
 
-4.006155014038086 : Block 4 received
+Block 4 received in time 2.003446102142334 sec
 
-2023-01-31 22:13:08.856545 : Tricia Hart
-2023-01-31 22:13:09.858271 : James Sharp
-2023-01-31 22:13:10.860001 : Brandon Zuniga
-2023-01-31 22:13:11.860797 : Robert Cruz
-2023-01-31 22:13:12.862699 : Aaron Buchanan
+2023-02-01 08:32:46.833608 : Natalie Johnson
+2023-02-01 08:32:47.835448 : Patrick Horn
+2023-02-01 08:32:48.837053 : Monica George
 
-4.009605646133423 : Block 5 received
+Block 5 received in time 2.0038602352142334 sec
 
-2023-01-31 22:13:13.864256 : Gloria Sanchez
-2023-01-31 22:13:14.865731 : Brandon Rodriguez
-2023-01-31 22:13:15.868258 : Sarah Rush
-2023-01-31 22:13:16.870906 : Jeffery Simmons
-2023-01-31 22:13:17.873862 : James Price
+2023-02-01 08:32:49.840182 : David Bond
+2023-02-01 08:32:50.841863 : Lauren Craig
+2023-02-01 08:32:51.844041 : Jennifer Henson
 
-4.007139444351196 : Block 6 received
+Block 6 received in time 2.003889799118042 sec
 
-2023-01-31 22:13:18.874904 : Thomas Duncan II
-2023-01-31 22:13:19.876271 : Jeremy Snow
-2023-01-31 22:13:20.878011 : Matthew Mullen
-2023-01-31 22:13:21.879523 : David Carrillo
-2023-01-31 22:13:22.882043 : Peter Jimenez
+2023-02-01 08:32:52.846197 : Jimmy Morgan
+2023-02-01 08:32:53.848512 : Andrew King
+2023-02-01 08:32:54.850087 : William Hernandez
 
-4.007200717926025 : Block 7 received
+Block 7 received in time 2.0028088092803955 sec
 
-2023-01-31 22:13:23.883836 : Michael Hall
-2023-01-31 22:13:24.884490 : Stephanie Welch
-2023-01-31 22:13:25.886882 : Larry Hines Jr.
-2023-01-31 22:13:26.888543 : Cheryl Mcgee
-2023-01-31 22:13:27.891035 : Matthew Clark
+2023-02-01 08:32:55.852138 : Bryce Beasley
+2023-02-01 08:32:56.853386 : Jeremy Cordova
+2023-02-01 08:32:57.854947 : Ariana Mendoza
+
+Block 8 received in time 2.0033390522003174 sec
+
+2023-02-01 08:32:58.857560 : Larry Matthews
+2023-02-01 08:32:59.859081 : Jason Barry
+2023-02-01 08:33:00.860898 : Richard Brooks
+
+Block 9 received in time 2.003176212310791 sec
+
+2023-02-01 08:33:01.862854 : Caitlin Beard
+2023-02-01 08:33:02.864735 : Amy Williams
+2023-02-01 08:33:03.866030 : Brittany Brandt
+
+Block 10 received in time 2.0032622814178467 sec
+
+2023-02-01 08:33:04.868573 : Tamara Powell MD
+2023-02-01 08:33:05.870361 : Sherry Hunt
+2023-02-01 08:33:06.871835 : Christopher Glass
+
+Block 11 received in time 2.0029208660125732 sec
+
+2023-02-01 08:33:07.874237 : Janet Anderson
+2023-02-01 08:33:08.875910 : Mark Barnett
+2023-02-01 08:33:09.877158 : Keith Taylor
+
+Block 12 received in time 2.005150318145752 sec
+
+2023-02-01 08:33:10.879260 : Megan Roth
+2023-02-01 08:33:11.882289 : Teresa Jensen
+2023-02-01 08:33:12.884410 : Clinton Lewis

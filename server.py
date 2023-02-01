@@ -1,6 +1,5 @@
 import asyncio
 import websockets
-import logging
 from faker import Faker
 fake = Faker()
 
