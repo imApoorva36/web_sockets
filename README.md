@@ -7,9 +7,11 @@
 ### **Skills we gained by doing this Project:** *(Its a better way of writing 'Prerequisites', as 'Learn while doing a Project' is better than 'Learn and then do a Project')*
 
 <br>
-1. We were introduced to the world of websockets and could apply the concepts of websockets that we researched during the course of making this project
-2. We learned about various modules like asyncio, websockets, faker, logging etc that exist in python and about how vast the scope of python application in real life is
-3. Increased our knowledge of how connections between client and server in real life would be happening
+
+ 1. We were introduced to the world of websockets and could apply the concepts of websockets that we researched during the course of making this project
+ 2. We learned about various modules like asyncio, websockets, faker, logging etc that exist in python and about how vast the scope of python application in real life     is
+ 3. Increased our knowledge of how connections between client and server in real life would be happening
+ 
 <br>
 
 ### ***A detailed report of the task*** :
