@@ -27,7 +27,7 @@
  7. The server would receive and print all of the messages received by the various clients.
  8. The client is also having the feature of ***re-establishing the connection with the sever if server restarts for some reason*** (Here we have used error handling       via try except block)
  9. The server also has a feature of handling multiple concurrent connections such as in our code, the server is handling 8 such clients concurrently as shown in the       screenshots of the outputs and it can send and receive data efficiently to and fro all blocks with any discontinuity in data transfer with any of the clients.
- 10. Also, we can see that in all our clients, the block size varies for the clients, i.e. the block size is assigned differently for different clients, and we can         also see the different result of different block sizes via observing the different time taken for each block received, as shown in the output screenshots.
+ 10. Also, we can see that in all our clients, the block size varies for the clients, i.e. the block size is assigned differently for different clients. Hence, we can     see that different block sizes require different time for logging, as reflected in the data files
  11. The client has the feature for selecting between different kind of data received from the server.
  
  <br>
