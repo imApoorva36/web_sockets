@@ -93,8 +93,10 @@ The ***datetime*** module was just used to get the current date and time at whic
  
 <br>
  
- ***Our breadboard circuit connections and implementation are as explained below and are as shown in the below picture:***
+### ***Our breadboard circuit connections and implementation are as explained below and are as shown in the below picture:***
  
+<br>
+
 ![Breadboard_Implementation](https://user-images.githubusercontent.com/90238207/217834680-cf0942ce-2329-49b0-971a-65942e2b464d.jpg)
  
  We have completed and executed ***milestones 1,2 and 3*** via our codes and the link to the functioning of them are as present in the drive link: https://drive.google.com/drive/folders/1-y2lRHNFNLPVLdF2iYOojacUmZ1ZpRQk
@@ -104,7 +106,7 @@ The ***datetime*** module was just used to get the current date and time at whic
  
  <br>
  
- **Codes Explanation:**
+ ### ***Codes Explanation:***
  
  <br>
  
