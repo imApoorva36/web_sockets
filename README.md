@@ -113,6 +113,13 @@ The ***datetime*** module was just used to get the current date and time at whic
  In our code, the main idea was that firstly we will be using three variables, latchpin, datapin and clockpin to make connections from the nodemcuv1.0 to the 74HC595 register which is such that latchpin connects to RCLK, clockpin to SRCLK and datapin to SER of the register. Further,  We notice that to connect each row of a 4x4 led matrix with all the LED's anodes in the same line will make it difficult for us to control individual LEDs, so we connect the two rear ends and the two middle LEDs of each row to one particular row, where their anodes are connected to that row. So therefore now that we have given input and are able to access that particular row and we know which input will control which row and which LEDs, then we can now begin with using the shift function and we now use binary numbers to refer to which wire input signals we want as 1, i.e. high voltage and which as 0 , i.e. low voltage. Now, we will be using say B00000100 to refer to the third output pin in our register, i.e. QC of our register. Further, we have also added delay function, which helps us with the time delay/ time gap that the code/micro-controller has to follow. Further, we added an ESP.reset function in one of our milestones, just so that the next time the loop is excuted, the transition is smooth and the contents of the register can get refreshed without causing much problem to our order of blinking. 
 
  
+ <br>
+  
+ ## ***Final Hackathon***
+ 
+ <br>
+ 
+ In the further sentences, we would be discussing on how we accomplished milestones 1, 2 and 3. 
  
 
 
