@@ -121,5 +121,22 @@ The ***datetime*** module was just used to get the current date and time at whic
  
  In the further sentences, we would be discussing on how we accomplished milestones 1, 2 and 3. 
  
+### ***A detailed report of milestone 1*** :
+ 
+ During this milestone, we were successfully able to get the sensor data of the MPU6050 on connecting it to the nodemcu,we received the data such as acceleration in x,y,z and angles along x,y,z and so on and we were able to display the data in the serial monitor . The video link of the code execution is in the milestone1 video file and the code is in the final_milestone_1&3 file.
+ 
+### ***A detailed report of milestone 2*** :
+ 
+ In this milestone, we were successfully able to establish WiFi communication between the nodemcu and the PC , and we were testing the connection by sending messages through the connection as shown in the video titled milestone 2 video and the relevant code is present in the final_milestone_2 code file. 
+ 
+### ***A detailed report of milestone 3*** :
+This milestone was similar to milestone 1, but we needed to make the data accurate, therefore we calibrated and tested the data by changing the orientation of the MPU6050(which was on the breadboard) and we therefore noticed that the data also accurately got changed. Also, the data remained fairly constant on no movement of the MPU6050, hence the conculusion of accuracy can be justified. 
+ 
+### ***A detailed report on Milestone 4*** :
+
+During this milestone, we know that we needed to get the data from the MPU and we had to interact with the game, we accordingly created the nodemcu as an access point so that it could create its own wifi. (This part of the code is titled as Final_WiFi_Access_Point) Also, we were able to connect other devices to this WiFi which proved that the WiFi was working properly.  But we were not able to integrate our code with the game. 
+ 
+ 
+
 
 
