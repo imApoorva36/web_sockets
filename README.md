@@ -141,6 +141,6 @@ This milestone was similar to milestone 1, but we needed to make the data accura
 During this milestone, we know that we needed to get the data from the MPU and we had to interact with the game, we accordingly created the nodemcu as an access point so that it could create its own wifi. (This part of the code is titled as Final_WiFi_Access_Point) Also, we were able to connect other devices to this WiFi which proved that the WiFi was working properly.  But we were not able to integrate our code with the game. 
  
  
-
+Also, the final video implementation file is also there in the repo under the file name Final_Implementation_Video
 
 
