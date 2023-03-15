@@ -1,8 +1,8 @@
-# IEEE EMBEDATHON 2023
+# For IEEE EMBEDATHON 2023
 
 <br>
 
-# Team Embedus(by Apoorva Agrawal and Sanjeev Holla S)
+# Team Embedus(Apoorva Agrawal and Sanjeev Holla S)
 ## ***Websockets implementation***
 
 <br>
